@@ -55,6 +55,8 @@ npm run dev
 
 An Q Tran
 
+Duc Le
+
 Kiet Tran
 
 ### Time Dedicated 
